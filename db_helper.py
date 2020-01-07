@@ -147,10 +147,3 @@ def getByRegionDistrict(region, district):
                 job_list.append(job)
 
     return job_list
-
-
-#if __name__ == '__main__':
-    #add_spot('sdf','sdf','sdf','sdf','sdf','sdf','sdf','sdf')
-    #print(getByRegionDistrict('Tashkent', ))
-
-
