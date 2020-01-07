@@ -34,19 +34,17 @@ job_owner_phone = ''
 job_address = ''
 
 page_count = 0
-
-#regionlar
 #regions = ["Toshkent sh.", "Toshkent vil.", "Xorazm", "Samarqand", "Andijon"]
-#didtricts
+
 districts = ["Yunsobod", "Forish", "Paxtakor", "Mirzacho'l"]
 
-#current job information
+
 current_region = ''
 current_district = ''
 current_jobs = []
 current_address = ["17/7", "7/8", "8/8"]
 
-#jobs
+
 jobs_from_db = []
 
 global handle_start
